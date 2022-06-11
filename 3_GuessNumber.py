@@ -2,7 +2,7 @@
 """Guess the number"""
 """
 Q. To write a program having a no. in it already, and allowing the user to input a no. and then the program responding
-by telling if the no. he entered is equal to, greater than or lesser than the given no within a limited amount of 
+by telling if the no. he entered is equal to, greater than or lesser than the given no. within a limited amount of 
 guesses(telling the no. of guesses left, or the no. of guesses in which he finished it, and also using game over on 
 loosing and won on winning).
 """

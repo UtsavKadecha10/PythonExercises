@@ -1,8 +1,8 @@
 """Exercise-5"""
 #Health Management System
-# 2 clients - Harry, Rohan.
-# Total 4 files.
-# Write a function that when executed takes as input client name.
+# 2 clients - Harry, Rohan
+# Total 4 files
+# Write a function that when executed takes as input client name
 # Diet
 # Timestamps in [] then whatever they ate
 # Exercise

@@ -16,7 +16,7 @@ False
 """
 
 """SOLUTION"""
-"""Bool Star Pattern"""
+"""Boolean Star Pattern"""
 
 print("Enter n")
 n=int(input())

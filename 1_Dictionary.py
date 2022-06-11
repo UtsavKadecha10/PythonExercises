@@ -1,6 +1,6 @@
 """Exercise - 1"""
 """Apni Dictionary"""
-"""Q. Create a dictionary and take input from the user and return the meaning of the word from the dictionary"""
+"""Q. Create a Dictionary to take input from the user and return the meaning of the word from the dictionary"""
 
 """SOLUTION"""
 """APNI DICTIONARY"""
